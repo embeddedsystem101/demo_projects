@@ -1,0 +1,13 @@
+projects
+========
+
+
+1) Home automation
+- sdcard access, for local storage
+- modules for sensors
+- bluetooth, wifi, RF communication
+- sensors
+  - camera
+  - photodiode
+  - IR sensors
+- Android access
