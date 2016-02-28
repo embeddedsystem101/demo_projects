@@ -3,7 +3,9 @@
 Git Setup steps
 ===============
 1) download and install git on PC.
-2) generate SSH key for PC - Open git bash. 
+2) generate SSH key for PC
+- Open git bash. 
+- follow instructions https://help.github.com/articles/generating-an-ssh-key/
 3) Copy SSH key to git a/c.
 
 Git repository access
