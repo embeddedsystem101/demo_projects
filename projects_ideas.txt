@@ -10,4 +10,4 @@ projects
   - camera
   - photodiode
   - IR sensors
-- Android access
+- Android access.
